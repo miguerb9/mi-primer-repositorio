@@ -1,2 +1,2 @@
 ¡Hola, mundo!
-Este es el repositorio local y vamos a subirlo a github.
+Modificado en linea, lo pasamos a local.
