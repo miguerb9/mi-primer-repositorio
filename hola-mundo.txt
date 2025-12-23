@@ -1,2 +1,1 @@
-¡Hola, mundo!
-Modificado en linea, lo pasamos a local.
+Estamos verificando el fetch ese.
